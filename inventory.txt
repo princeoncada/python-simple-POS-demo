@@ -1,0 +1,20 @@
+Flap Barrier Gate
+19999.0
+96
+
+Speed Gate Turnstile
+17888.5
+100
+
+Swing Barrier
+18777.5
+100
+
+Swing Gate Turnstile
+15666.0
+100
+
+Slimlite Barrier Turnstile
+16555.0
+100
+
