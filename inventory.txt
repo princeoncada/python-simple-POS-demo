@@ -1,10 +1,10 @@
 Flap Barrier Gate
 19999.0
-96
+68
 
 Speed Gate Turnstile
 17888.5
-100
+77
 
 Swing Barrier
 18777.5
@@ -12,7 +12,7 @@ Swing Barrier
 
 Swing Gate Turnstile
 15666.0
-100
+66
 
 Slimlite Barrier Turnstile
 16555.0
